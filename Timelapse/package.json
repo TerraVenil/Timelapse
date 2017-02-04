@@ -1,0 +1,18 @@
+{
+  "name": "timelapse",
+  "version": "1.0.0",
+  "description": "Use AWS infrastructure for timelapse videos and presentations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timelapse",
+    "lambda"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gm": "^1.23.0"
+  }
+}
